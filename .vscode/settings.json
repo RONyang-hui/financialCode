@@ -1,5 +1,8 @@
 {
     "cSpell.words": [
-        "pdfplumber"
-    ]
+        "akshare",
+        "pdfplumber",
+        "symbolpython"
+    ],
+    "python.analysis.typeCheckingMode": "basic"
 }
